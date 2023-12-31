@@ -43,5 +43,5 @@ The **Singleton Pattern** is employed in the pricing strategy implementations (`
 
 ### Low-Level Design (LLD)
 
-![lld drawio](https://github.com/shubhamji88/clean-travel/assets/56815364/105f4b43-274d-4968-92d7-c2d282dc6f28)
+![lld drawio (2)](https://github.com/shubhamji88/clean-travel/assets/56815364/e580e95d-2950-4c2a-8bd3-62b100d5b695)
 
