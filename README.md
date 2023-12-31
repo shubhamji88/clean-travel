@@ -38,8 +38,7 @@ The **Singleton Pattern** is employed in the pricing strategy implementations (`
 
 ### High-Level Design (HLD)
 
-![hld](https://github.com/shubhamji88/clean-travel/assets/56815364/071dec9c-53e1-4a0d-80e2-391bc6467edc)
-
+![hldd drawio](https://github.com/shubhamji88/clean-travel/assets/56815364/bd54661b-86d3-41c6-8dce-557edbae0818)
 
 ### Low-Level Design (LLD)
 
